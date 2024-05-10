@@ -51,7 +51,10 @@ predictCO2 = regr.predict([[3300,1300]])
 print('Predicted CO2 for corresponding Weight and Volume',predictCO2)
 ```
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/Sheetalshee/Multivariate-Linear-Regression/assets/144979107/b9c6a97b-b812-4f65-b610-b82ca187d6f8)
+
+
+
 
 
 
